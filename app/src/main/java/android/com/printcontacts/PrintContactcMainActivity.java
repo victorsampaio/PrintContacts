@@ -10,6 +10,12 @@ import android.util.Log;
 import android.widget.TextView;
 
 
+/**
+ * This example presents the contacts saved in mobile or emulator.
+ * Case not exist contacts the project show the Errors in LogCat.
+ */
+
+
 public class PrintContactcMainActivity extends Activity {
 
     private static final String CATEGORY = "printContacts";
